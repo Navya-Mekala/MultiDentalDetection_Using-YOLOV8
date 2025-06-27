@@ -1,1 +1,3 @@
-# MultiDentalDetection_Using-YOLOV8
+This repository hosts the Multi-Dental Disease Detection system, a final year B.Tech project at Shri Vishnu Engineering College for Women, developed to aid dental professionals in diagnosing conditions from panoramic X-ray images. The system employs deep learning, specifically YOLOv8, for object detection and segmentation to identify and localize dental diseases such as caries, periodontal disease, and impacted teeth. This project, part of the Artificial Intelligence department, showcases the application of AI in healthcare, focusing on accurate detection and user-friendly analysis.
+
+The project was developed with guidance from faculty and involved leading a four-member team. It integrates real-time detection capabilities and a basic interface for practical use in dental diagnostics.
