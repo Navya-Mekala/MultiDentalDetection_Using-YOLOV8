@@ -2,7 +2,9 @@ Predictive Model: AI-Based Dental Diagnosis
 Introduction
 The integration of artificial intelligence (AI) into dental diagnostics has revolutionized the field of dentistry, offering enhanced precision and efficiency in detecting and diagnosing multiple dental conditions. This project presents a deep learning-based system for the automated detection and diagnosis of diverse dental anomalies using YOLOv8. The system is implemented as a Flask-based web application, allowing dentists to upload radiographic images and receive diagnostic results in real time.
 Data
-The dataset used for training and evaluating the AI-based dental diagnosis models consists of:
+The dataset used for training and evaluating the AI-based dental diagnosis models consists of
+
+
 •	Dental Radiographs: High-resolution images collected from public datasets like kaggle.
 •	Annotation: Images are annotated using the Roboflow platform, ensuring accurate and standardized labeling.
 •	Preprocessing: Data augmentation techniques such as rotation, flipping, brightness adjustments, and noise reduction are applied to enhance model generalization.
