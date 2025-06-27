@@ -6,9 +6,12 @@ The dataset used for training and evaluating the AI-based dental diagnosis model
 
 
 •	Dental Radiographs: High-resolution images collected from public datasets like kaggle.
+
 •	Annotation: Images are annotated using the Roboflow platform, ensuring accurate and standardized labeling.
+
 •	Preprocessing: Data augmentation techniques such as rotation, flipping, brightness adjustments, and noise reduction are applied to enhance model generalization.
 Methodology
+
 The dental diagnosis model follows a multi-stage process:
 1. Feature Extraction (YOLOv8 CNN)
 •	A pre trained YOLOv8 convolutional neural network (CNN) extracts feature embeddings from dental radiographs.
